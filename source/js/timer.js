@@ -1,4 +1,4 @@
-console.log("Activate the JS Timer");
+console.log("Activate the JS Timer Countdown");
 
 var init = function() {
     // set the date we're counting down to
