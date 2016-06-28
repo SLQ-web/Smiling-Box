@@ -14,6 +14,12 @@ var useref = require('gulp-useref');
 //  })
 //})
 
+// Gulp watch syntax (watching for changes to CSS/JS files)
+gulp.task('watch', function(){
+    gulp.watch('source/css/**/*.css', ['useref']); //watches for changes to css files
+    gulp.watch('source/js/**/*.js', ['useref']); //watches for changes to js files
+})
+
 gulp.task('useref', function(){
   return gulp.src('source/*.html')
     .pipe(useref())

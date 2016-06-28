@@ -1,5 +1,11 @@
+/*default page base styles*/
+
 h1 {
     color: forestgreen;
+}
+
+h2 {
+    color: teal;
 }
 
 .container {
