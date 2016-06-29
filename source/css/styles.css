@@ -1,17 +1,23 @@
 h1 {
     color: forestgreen;
-    font-size: 130%;
+    font-size: 140%;
     border-bottom: 1px solid forestgreen;
 }
 
 h2 {
     color: teal;
-    font-size: 115%
+    font-size: 120%
 }
 
 h3 {
     color: rebeccapurple;
-    font-size: 105%;
+    font-size: 110%;
+}
+
+/*added p styles*/
+p {
+    font-size: 85%;
+    color: #555;
 }
 
 .container {
