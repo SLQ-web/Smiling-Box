@@ -1,9 +1,17 @@
 h1 {
     color: forestgreen;
+    font-size: 130%;
+    border-bottom: 1px solid forestgreen;
 }
 
 h2 {
     color: teal;
+    font-size: 115%
+}
+
+h3 {
+    color: rebeccapurple;
+    font-size: 105%;
 }
 
 .container {
