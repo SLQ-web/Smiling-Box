@@ -1,17 +1,12 @@
-/*default page base styles*/
-
 h1 {
     color: forestgreen;
     font-size: 140%;
-    font-size: 130%;
     border-bottom: 1px solid forestgreen;
 }
 
 h2 {
     color: teal;
-    font-size: 120%;
-    color: teal; /*new empty h2 tag*/
-    font-size: 115%;
+    font-size: 120%
 }
 
 h3 {
@@ -27,7 +22,6 @@ p {
 
 strong {
     color: #66A;
-    font-size: 105%;
 }
 
 .container {
