@@ -20,6 +20,10 @@ p {
     color: #555;
 }
 
+strong {
+    color: #66A;
+}
+
 .container {
     width: 1200px;
     margin: 0 auto;
