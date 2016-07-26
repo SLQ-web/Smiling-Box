@@ -25,15 +25,15 @@ strong {
 }
 
 .container {
-    width: 1200px;
+    width: 960px;
     margin: 0 auto;
 }
 
 .smilingBox {
     width: 5em;
     padding: 20px;
-    background: yellow;
-    border: 3px solid blue;
+    background: orange;
+    border: 3px dashed red;
     margin: 0 auto;
     margin-top: 3em;
     transform-origin: right;
@@ -47,6 +47,6 @@ button {
     color: #6ff317;
     background: #000;
     padding: 10px;
-    border: 3px solid red;
+    border: 3px solid green;
     width: 20em;
 }
